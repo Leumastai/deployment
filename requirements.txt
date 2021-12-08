@@ -14,7 +14,6 @@ charset-normalizer==2.0.6
 click==6.7
 cycler==0.10.0
 Cython==0.29.24
-dataclasses==0.8
 decorator==4.1.2
 defusedxml==0.7.1
 distro==1.6.0
