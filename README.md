@@ -1,2 +1,2 @@
-This Repo contaains deployed model connected to Heroku
+This Repo contains instance segmentation model connected to Heroku
 
