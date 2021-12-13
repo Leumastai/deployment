@@ -10,3 +10,9 @@ keras==2.0.8
 opencv-python
 imgaug
 IPython[all]
+Flask==0.12.2
+Flask-Bootstrap==3.3.7.1
+gunicorn==20.0.4
+MarkupSafe==1.1.1
+Jinja2==2.9.6
+Werkzeug==0.15.3
