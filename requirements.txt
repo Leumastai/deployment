@@ -27,8 +27,8 @@ ipython-genutils==0.2.0
 itsdangerous==2.0.1
 jedi==0.17.0
 Jinja2==3.0.3
-jupyter-client==7.0.6
-jupyter-core==4.8.1
+#jupyter-client==7.0.6
+#jupyter-core==4.8.1
 Keras==2.0.8
 Keras-Applications==1.0.8
 Keras-Preprocessing==1.1.2
@@ -64,7 +64,7 @@ scikit-image==0.17.2
 scipy==1.5.2
 setuptools==58.0.4
 six==1.16.0
-tensorboard==1.13.1
+#tensorboard==1.13.1
 tensorflow==1.13.2
 tensorflow-estimator==1.13.0
 termcolor==1.1.0
